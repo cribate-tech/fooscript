@@ -2,8 +2,7 @@
   "name": "foo",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "browser":"index.js",
+  "main": "index.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
